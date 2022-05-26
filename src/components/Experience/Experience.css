@@ -25,6 +25,7 @@
     font-size: 1.5rem;
     font-weight: bold;
     margin-bottom: 2rem;
+    line-height: 24px;
 }
 .circle::before {
     border-radius: 100%;
@@ -41,6 +42,7 @@
 
 .achievement span:nth-of-type(2){
     color: var(--orange);
+    line-height: 24px;
 }
 
 
